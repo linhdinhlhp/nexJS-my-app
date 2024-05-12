@@ -1,5 +1,5 @@
 import { NextUIProvider } from "@nextui-org/react";
-import "../styles/globals.css";
+import "../styles/global.css";
 function MyApp({ Component, pageProps }) {
   return (
     // Use at the root of our app
